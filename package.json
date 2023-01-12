@@ -1,0 +1,23 @@
+{
+  "name": "financejs",
+  "version": "1.0.0",
+  "description": "Finance.js\r ==========\r Finance.js provides basic finance javascript methods and was contributed by the excellent [Car Bounce](http://carbounce.com).",
+  "main": "finance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwaduarte/financejs.git"
+  },
+  "keywords": [
+    "fork",
+    "financejs"
+  ],
+  "author": "trentrichardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwaduarte/financejs/issues"
+  },
+  "homepage": "https://github.com/iwaduarte/financejs#readme"
+}
